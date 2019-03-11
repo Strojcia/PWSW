@@ -1,7 +1,8 @@
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
-
+// Aleksandra Stroynowska
+// Dawid Małolepszy
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
 
 public class mian

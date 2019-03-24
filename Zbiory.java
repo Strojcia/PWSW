@@ -4,7 +4,7 @@ import java.util.Set;
 
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
 
-public class mian
+public class Zbiory
 {
 	public static void main(String args[])
 	{
